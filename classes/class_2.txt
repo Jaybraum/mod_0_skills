@@ -1,4 +1,4 @@
-class bottleWine
+class BottleWine
 
 labelDesign (string)
 wineAmount (float)
