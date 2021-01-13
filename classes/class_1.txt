@@ -1,0 +1,16 @@
+class Meat
+
+attributes
+
+isFrozen (boolean)
+isCooked (boolean)
+weight (float)
+Price (float)
+
+
+methods:
+
+removeFromFreezer (updates the isFrozen attribute to false)
+cookMeat (updates the isCooked attribute to true)
+cutMeat (updates the weight attribute)
+hireCelebrityChef (updates the price attribute)
