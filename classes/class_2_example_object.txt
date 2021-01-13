@@ -1,0 +1,13 @@
+HouseWine
+
+labelDesign = "grapes.png"
+wineAmount = 22.5
+isOpen = false 
+price = 12.99
+
+methods:
+
+updateLabelDesign => "grapes.png" = "orchard.png"
+breakBottle => 22.5 = 0
+popCork => isOpen = true
+findOldBottleInCellar price = 60.99
