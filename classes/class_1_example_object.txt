@@ -1,0 +1,16 @@
+Steak
+
+attributes
+
+isFrozen = true
+isCooked = false
+weight = 5.5
+Price = 15.99
+
+
+methods:
+
+removeFromFreezer => isFrozen = false
+cookMeat => isCooked = true
+cutMeat => 5.5 = 2.5
+hireCelebrityChef => price = 35.99 
