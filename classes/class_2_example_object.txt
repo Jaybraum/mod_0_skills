@@ -10,4 +10,4 @@ methods:
 updateLabelDesign => "grapes.png" = "orchard.png"
 breakBottle => 22.5 = 0
 popCork => isOpen = true
-findOldBottleInCellar price = 60.99
+findOldBottleInCellar => price = 60.99
