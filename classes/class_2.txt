@@ -1,0 +1,13 @@
+class bottleWine
+
+labelDesign (string)
+wineAmount (float)
+isOpen (boolean)
+price (float)
+
+methods:
+
+updateLabelDesign (updates the labelDesign attribute)
+breakBottle (updates the wineAmount attribute)
+popCork (updates the isOpen attribute)
+findOldBottleInCellar (updates price attribute)
