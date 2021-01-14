@@ -5,7 +5,7 @@ food = "gyro";
 
 var num2 = 2;
 var num7 = 8;
-console.log(num7 /num2);
+var quotient = (num7 / num2);
 
 var song = ["Ymca", "Macho man", "In the Navy"];
 
