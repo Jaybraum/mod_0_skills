@@ -5,7 +5,7 @@ attributes
 isFrozen = true
 isCooked = false
 weight = 5.5
-Price = 15.99
+price = 15.99
 
 
 methods:
