@@ -5,12 +5,10 @@ food = "gyro";
 
 var num2 = 2;
 var num7 = 8;
-var quotient = (num7 / num2);
+var quotient = num7 / num2;
 
 var song = ["Ymca", "Macho man", "In the Navy"];
 
-song.splice(song.indexOf("Ymca"), 1);
-
-console.log(song);
+var removeFirst = song.shift();
 
 console.log(`${food} ${food.length}`);
