@@ -5,7 +5,7 @@ attributes
 isFrozen (boolean)
 isCooked (boolean)
 weight (float)
-Price (float)
+price (float)
 
 
 methods:
